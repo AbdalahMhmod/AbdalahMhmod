@@ -68,7 +68,7 @@ _ERP system for inventory and CRM_
 🛠️ **Tech:** ASP.NET Core, Blazor, MVC, Desktop, SQL Server, API Integrations
 
 🏷️ **Full-Stack .NET Developer** – *Barcode for Assets Valuation*  
-`Oct 2023 – Present` | .NET Core, Identity, IronPDF, Vanilla JS
+`Oct 2023 – Feb 2025` | .NET Core, Identity, IronPDF, Vanilla JS
 
 🎓 **Full-Stack .NET Developer** – *Moussa Academy for Distance Education*  
 `Sep 2022 – Present` | Angular 17, ASP.NET Core API, JWT
