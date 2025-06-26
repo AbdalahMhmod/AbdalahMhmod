@@ -60,16 +60,21 @@ _ERP system for inventory and CRM_
 
 ---
 
-## 📍 Experience
+💼 **Full-Stack .NET Developer** – *Taly For FinTech*  
+`Mar 2025 – Present`  
+🔹 Working on secure financial platforms and scalable systems using ASP.NET Core, MVC, Blazor APIs, and Desktop Applications  
+🔹 Responsible for API integrations with payment gateways, financial systems, and desktop-based data entry tools  
+🔹 Designed modular systems with high test coverage, robust architecture, and performance optimizations  
+🛠️ **Tech:** ASP.NET Core, Blazor, MVC, Desktop, SQL Server, API Integrations
 
-🛡️ **Full-Stack .NET Developer** – *Information Systems – 3rd Army (Egypt)*  
-`Nov 2021 – Oct 2023` | ASP.NET Core, MVC, Blazor
+🏷️ **Full-Stack .NET Developer** – *Barcode for Assets Valuation*  
+`Oct 2023 – Present` | .NET Core, Identity, IronPDF, Vanilla JS
 
 🎓 **Full-Stack .NET Developer** – *Moussa Academy for Distance Education*  
 `Sep 2022 – Present` | Angular 17, ASP.NET Core API, JWT
 
-🏷️ **Full-Stack .NET Developer** – *Barcode for Assets Valuation*  
-`Oct 2023 – Present` | .NET Core, Identity, IronPDF, Vanilla JS
+🛡️ **Full-Stack .NET Developer** – *Information Systems – 3rd Army (Egypt)*  
+`Nov 2021 – Oct 2023` | ASP.NET Core, MVC, Blazor
 
 ---
 
