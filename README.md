@@ -1,78 +1,122 @@
-# 👋 Hi there! I'm a Full-Stack .NET Developer
+<h1 align="center">👋 Hi, I'm Abdallah Mahmoud</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&lines=Solution-oriented+Full-Stack+.NET+Engineer;Building+Robust+and+Scalable+Apps;Passionate+About+Modern+Tech)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=450&lines=Full-Stack+.NET+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server;Crafting+scalable+web+and+desktop+apps;Delivering+business-driven+tech+solutions" alt="Typing SVG" />
+</p>
 
----
-
-## 🛠️ What I Do
-
-🔹 **Back-End Development**  
-- ASP.NET Core / MVC / Web API  
-- Entity Framework Core / Dapper  
-- SQL Server / MySQL / LINQ  
-- Clean Architecture, SOLID, Dependency Injection  
-- RESTful API design and integrations (Payments, Shipping, Reporting)  
-
-🔹 **Front-End Development**  
-- Angular, TypeScript, RxJS  
-- HTML5, CSS3, SCSS, Bootstrap, Tailwind  
-- JavaScript, jQuery, AJAX  
-- Responsive UI, dynamic components, interactive dashboards  
-
-🔹 **Desktop Applications**  
-- Windows Forms  
-- WPF (MVVM)  
-- Integration with hardware and third-party services  
-
-🔹 **DevOps & Tooling**  
-- Git, GitHub Actions, CI/CD  
-- Azure DevOps, Docker (basics)  
-- Postman, Swagger, Fiddler  
+<p align="center">
+  <a href="mailto:abdullahmahmoud4550@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdullahmahmoud4550@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/obidaeg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-obidaeg-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://onlysolar.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-onlysolar.com-%23000000?style=flat-square&logo=firefox" /></a>
+  <a href="tel:+201014581574"><img src="https://img.shields.io/badge/Phone-%2B20%20101%20458%201574-green?style=flat-square&logo=whatsapp" /></a>
+</p>
 
 ---
 
-## 🚀 What I Build
+## 🚀 Objective
 
-- Business automation platforms  
-- Integrated payment systems (Stripe, PayPal, others)  
-- Custom reporting tools and data visualizations  
-- Shipping & logistics modules  
-- Secure admin dashboards and real-time UIs  
-- Full-cycle desktop applications  
-- Modular APIs for microservices architecture  
+As a **Full Stack Developer**, I specialize in building scalable, efficient applications that integrate modern frontend frameworks with powerful .NET backends. I turn business ideas into secure, performant, and maintainable code.
 
 ---
 
-## 💡 What You’ll Find in My Repos
+## 🛠️ Tech Stack
 
-- Cleanly structured ASP.NET Core APIs  
-- Angular-based frontends with reusable components  
-- UI integrations with jQuery/AJAX for legacy and hybrid apps  
-- Database-driven systems with optimized queries  
-- Full project templates (startup + infrastructure patterns)  
-- Real-world scenarios: payments, reports, notifications  
+| Category | Tools & Technologies |
+|--------|------------------------|
+| **Languages** | C#, TypeScript, JavaScript, SQL |
+| **Backend** | .NET 3, 6, 8, EF Core, LINQ, ADO.NET, WinForms, ASP.NET MVC, Web API, SignalR |
+| **Frontend** | Angular 17, HTML5, CSS3, Bootstrap, SCSS, jQuery, AJAX |
+| **Desktop** | WinForms, WPF (MVVM), Windows Services |
+| **Authentication** | JWT, OAuth, .NET Core Identity |
+| **Database** | SQL Server, MySQL, Firebase |
+| **Dev Tools** | Git, GitHub, Visual Studio, SSMS, Swagger, Postman |
+| **Integrations** | WhatsApp API, Payment Gateways (Visa, Mastercard, Tabby, Tamara), Automapper |
+| **Logging & Reporting** | Serilog, IronPdf, Crystal Reports, Syncfusion |
+| **Cloud & Hosting** | FileZilla, SmarterASP, IIS |
 
 ---
 
-## 📬 Contact Me
+## 🎯 Key Projects & Achievements
 
-[![Phone](https://img.shields.io/badge/Phone-%2B20%20101%20458%201574-blue?style=flat-square&logo=phone)](tel:+201014581574)
-[![Email](https://img.shields.io/badge/Email-abdullahmahmoud4550%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahmahmoud4550@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-obidaeg-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obidaeg/)
-[![Website](https://img.shields.io/badge/Website-onlysolar.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://onlysolar.com)
+✅ **Only Solar**  
+_E-commerce (ASP.NET Core MVC + N-Layer)_  
+📈 Boosted transaction speed by 30%, handled 1000+ secure payments.  
+🛠️ **Tech:** .NET Core, JWT, AJAX, HTML, CSS, Bootstrap
+
+✅ **Barcode Platform**  
+_Web-based transaction platform_  
+📉 Reduced cart abandonment by 25%, over 500 daily transactions.  
+🛠️ **Tech:** .NET Core MVC, Blazor, AJAX
+
+✅ **Moussa Answers**  
+_Course E-Commerce (ASP.NET Core API + Angular 17)_  
+📊 40% user engagement increase, 2000+ transactions  
+🛠️ **Tech:** Angular, .NET Web API, JWT, SQL Server
+
+✅ **Al-Reda Trading**  
+_ERP system for inventory and CRM_  
+📦 Managed 1000+ products, improved efficiency by 35%  
+🛠️ **Tech:** ASP.NET MVC5, SQL Server, Angular
+
+---
+
+## 📍 Experience
+
+🛡️ **Full-Stack .NET Developer** – *Information Systems – 3rd Army (Egypt)*  
+`Nov 2021 – Oct 2023` | ASP.NET Core, MVC, Blazor
+
+🎓 **Full-Stack .NET Developer** – *Moussa Academy for Distance Education*  
+`Sep 2022 – Present` | Angular 17, ASP.NET Core API, JWT
+
+🏷️ **Full-Stack .NET Developer** – *Barcode for Assets Valuation*  
+`Oct 2023 – Present` | .NET Core, Identity, IronPDF, Vanilla JS
+
+---
+
+## 🧠 Soft Skills
+
+✅ Critical Thinking  
+✅ Time Management  
+✅ Problem Solving  
+✅ Communication  
+✅ Team Collaboration
+
+---
+
+## 📚 Education
+
+🎓 **BSc. Computer Science** – Zagazig University  
+`2017 – 2021`
+
+---
+
+## 🌍 Languages
+
+- 🇦🇪 Arabic (Native)  
+- 🇬🇧 English (Professional)  
+- 🇫🇷 French (Beginner)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obidaeg&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obidaeg&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obidaeg&layout=compact&theme=tokyonight" width="350" />
+</p>
 
 ---
 
-## 🎬 Developer in Action
+## 🎥 Developer in Action
 
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
 
 ---
 
-> "Always building, always learning. Clean code, clean architecture."
+> _"Always building, always learning. Clean code, clean architecture."_  
+> — Abdallah Mahmoud
+
